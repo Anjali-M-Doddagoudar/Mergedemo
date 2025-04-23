@@ -25,7 +25,7 @@ public class Employee {
     }
 
     public long getphoneno() {
-        return phoneno
+        return phoneno;
     }
 
     // Setter methods
